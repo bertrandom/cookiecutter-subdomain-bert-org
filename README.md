@@ -6,7 +6,7 @@ Basically:
 
 * Creates a new directory for the subdomain locally with a blank index file
 * Creates a new directory on the remote and rsyncs the blank index file
-* Creates Apache configuration for the new subdomain
+* Creates two Apache configurations for the new subdomain, one that forces a redirect from http://subdomain.bert.org to https://subdomain.bert.org and one that is the actual configuration
 * Reloads Apache
 
 ## installation

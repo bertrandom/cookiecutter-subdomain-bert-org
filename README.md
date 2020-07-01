@@ -11,6 +11,8 @@ Basically:
 
 ## installation
 
+Install [cookie-cutter](https://github.com/cookiecutter/cookiecutter)
+
 Clone into `~/code/cookiecutter-subdomain-bert-org`
 
 Symlink into ~/bin directory:

@@ -11,7 +11,7 @@ Basically:
 
 ## installation
 
-Install [cookie-cutter](https://github.com/cookiecutter/cookiecutter)
+Install [cookiecutter](https://github.com/cookiecutter/cookiecutter)
 
 Clone into `~/code/cookiecutter-subdomain-bert-org`
 
